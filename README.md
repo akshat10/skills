@@ -2,7 +2,7 @@
 
 [![skills.sh](https://img.shields.io/badge/skills.sh-akshat10%2Fskills-orange)](https://skills.sh/akshat10/skills/first-principles-thinking)
 
-Agent skills for Claude Code.
+Agent skills.
 
 ## Available Skills
 
